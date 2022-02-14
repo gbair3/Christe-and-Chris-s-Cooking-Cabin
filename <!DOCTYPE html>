@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head> 
+		<meta charset="UTF-8"/>
+		<meta http-equiv="X-UA-Compatiable" content="IE=edge"/>
+		<meta name="viewport" content="width=device-with, initial-scale=1.0" />
+		<title>Company Service Page</title>
+			<title>HTML Frames</title>
+<h1><center><font size="25"color="Black">Christie and Chris’s Cooking Cabin</font></center></h1>
+<h2><center><font size="25"color="Black">Company Service Page</font></center></h2>
+<body bgcolor ="#D3D3D3">
+<Body>
+<Font color="2D5B9F" font size="4">
+<b1><u><b><i><font size="6" style="font-family: 'Lucida Sans',*Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+Verdana, sans-serif:" color="White">Company Services</font></u></i</b></b1>
+<br>
+<p>Christie and Chris's Cooking Cabin offers services that can improve the cooking experience for people that are amateurs in the kitchen. The services that we provide include the following Meal preps, a cooking book, and 1 month of cooking coaching from one of our esteemed chefs.</p>
+
+<p><b><font style="times new roman" color="white"></font>Company Services:</b> </p>
+<ul>
+	<li> Meal Preps
+	<li> Cooking Books
+	<li> Personal Coach</li>
+</ul>
+<br>
+
+<b2><u><b><i><font size="6" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;" color="White">Company Service Breakdown</font></u></i></b></b2>
+<p> As said before Christie and Chris provide 3 different services to amateurs in the kitchen. The Meal prep is way for consumers interested in our brand to try our state of the art cuisines with the hassel of making the dishing yourself. These cuisines can be ordered to accomadate consumers on a monthly basis or a yearly basis. These meals preps can be customizable to cater to your favorite styles of meals. The next service we offer cooking books. These books can help you begin your cooking experience and sharpen the experience you have. The recipes that are provided by are chefs and well crafted and healthy. The last and most popular service we offer is a sales coach to help you on your cooking adventure. This coach will get with you for 2 hours on a weekly basis and help you with cooking while teaching you some tricks at the same time. 
+	
+<br>
+<br>
+<br>
+<img src = "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,q_60,w_750,f_auto/AdobeStock324611169-php9T2gMn" width="550" height= "400">
+<br>
+<br>
+<br>
+
+<a href = https://www.cozymeal.com/online-cooking-classes/zoom target= "_blank"> Virtual Cooking Recipes</a>
+<br>
+<br>
+<a href = "mailto:singh641@purdue.edu">Contact Me: singh641@purdue.edu</a>
+<br>
+<br>
+<br>
+<p>Date/Time: <span id="datatime"></span></p><script>var dt = new Date();document.getElementById("datetime").innerHTML = dt.toLocaleDateString();
+<script>document.write( document.lastModified ):</script>
+
+
+<head>
+</html> 
+
+
